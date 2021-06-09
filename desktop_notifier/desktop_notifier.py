@@ -7,7 +7,7 @@ if __name__ == "__main__":
         notification.notify(
             title = "Hello Vasu!!!",
             message = "Time for a Workout..!!",
-            timeout = 7
+            timeout = 10
         )
         #Python time sleep(v) Method
         #v is the number of seconds execution to be suspended.
